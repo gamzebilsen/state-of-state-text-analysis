@@ -2,7 +2,7 @@
 The project compares 18 Republican governors' speeches aggregated together to the 18 Democrat governors' speeches. The main goal of this paper is to see if climate change is a topic of conversation, and if not, what is? In addition, is there a different between the two political parties' governments' speech topics?
 
 ## Data 
-2022 speeches of 18 states in each party. 
+2022 state of the state governor speeches of 18 states per party. 
 Data is pdf downloads of each states governors' speech. They were all converted to csv's - each line being a sentence - and csv's merged together per group.
 
 ## Installation
